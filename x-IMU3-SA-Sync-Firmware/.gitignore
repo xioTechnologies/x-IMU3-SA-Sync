@@ -1,0 +1,10 @@
+**/*.X/**
+!**/*.X/Makefile
+!**/*.X/nbproject
+!**/*.X/nbproject/configurations.xml
+!**/*.X/nbproject/project.xml
+!**/*.X/**.h
+!**/*.X/**.c
+!**/*.X/**.s
+
+hex-archive
