@@ -7,7 +7,7 @@
  * PIC10F322
  *
  * Compiler:
- * XC8 v2.35
+ * XC8 v2.41
  */
 
 //------------------------------------------------------------------------------
@@ -50,7 +50,7 @@ void main(void) {
 
     // Print firmware version
     Delay(DelayPeriod512ms);
-    UartTXString("x-IMU3-SA-Sync v1.0\r\n");
+    UartTXString("x-IMU3-SA-Sync v1.0.1\r\n");
 
     // Main program loop
     while (true) {
@@ -65,17 +65,10 @@ void main(void) {
         }
         previousState = currentState;
 
-        // Write polarity
+        // Write message
         UartTXByte(polarity);
-
-        // Write comma
         UartTXByte(',');
-
-        // Write counter
         UartTXString(counter);
-
-        // Write termination
-        UartTXByte('\r');
         UartTXByte('\n');
 
         // Update polarity
