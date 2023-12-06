@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-Sync\x-IMU3-SA-Sync-PCB\Project Outputs for x-IMU3-SA-Sync\Pick Place\Pick Place for x-IMU3-SA-Sync.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/12/23
+Time:       16:15
+Revision:   c099cdd72ccad2d310145c491f998dc2d481901e
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"D2","22.5000mm","1.5000mm","BottomLayer","180","PMEG2010ER"
+"D1","22.5000mm","3.7500mm","BottomLayer","0","PMEG2010ER"
+"J1","23.0000mm","6.0000mm","TopLayer","180","SP-3533-02"
+"TP1","22.0000mm","11.0000mm","BottomLayer","180","Test Point"
+"TP3","19.5000mm","11.0000mm","BottomLayer","180","Test Point"
+"TP2","24.5000mm","11.0000mm","BottomLayer","180","Test Point"
+"R2","19.5000mm","4.0000mm","BottomLayer","270","180R"
+"J2","16.0000mm","6.0000mm","TopLayer","270","Amphenol 112640"
+"R1","19.5000mm","8.2500mm","BottomLayer","90","180R"
+"C1","25.5000mm","8.2500mm","BottomLayer","90","100nF"
+"U1","22.5000mm","8.7500mm","BottomLayer","90","PIC10F322-I/OT"
