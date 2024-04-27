@@ -4,9 +4,9 @@ C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-Sync\x-IMU3-SA-Sync-PCB\Project Output
 ========================================================================================================================
 File Design Information:
 
-Date:       06/12/23
-Time:       16:15
-Revision:   c099cdd72ccad2d310145c491f998dc2d481901e
+Date:       27/04/24
+Time:       19:30
+Revision:   4a9d205786597471e4172dfe186b43cab02a364a
 Variant:    No variations
 Units used: mm
 
@@ -17,8 +17,8 @@ Units used: mm
 "TP1","22.0000mm","11.0000mm","BottomLayer","180","Test Point"
 "TP3","19.5000mm","11.0000mm","BottomLayer","180","Test Point"
 "TP2","24.5000mm","11.0000mm","BottomLayer","180","Test Point"
-"R2","19.5000mm","4.0000mm","BottomLayer","270","180R"
+"R2","19.5000mm","4.0000mm","BottomLayer","270","470R"
 "J2","16.0000mm","6.0000mm","TopLayer","270","Amphenol 112640"
-"R1","19.5000mm","8.2500mm","BottomLayer","90","180R"
+"R1","19.5000mm","8.2500mm","BottomLayer","90","470R"
 "C1","25.5000mm","8.2500mm","BottomLayer","90","100nF"
 "U1","22.5000mm","8.7500mm","BottomLayer","90","PIC10F322-I/OT"
