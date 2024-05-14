@@ -7,4 +7,4 @@
 !**/*.X/**.c
 !**/*.X/**.s
 
-hex-archive
+/releases
