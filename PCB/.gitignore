@@ -1,0 +1,9 @@
+__Previews/
+History/
+Project Logs for */
+*.PrjPcbStructure
+Status Report.Txt
+Design Rule Check*.drc
+Design Rule Check*.html
+*.DRR
+*.LDP
