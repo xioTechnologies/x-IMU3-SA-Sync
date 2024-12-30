@@ -50,7 +50,7 @@ void main(void) {
 
     // Print firmware version
     Delay(DelayPeriod512ms);
-    UartTXString("x-IMU3-SA-Sync v1.0.3\n");
+    UartTXString("x-IMU3-SA-Sync v1.0.4\n");
 
     // Main program loop
     while (true) {

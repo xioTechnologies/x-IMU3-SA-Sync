@@ -18,7 +18,7 @@
  * @param period Period.
  */
 void Delay(const DelayPeriod period) {
-    WDTCON = period;
+    WDTCON = (unsigned char) period;
     SLEEP();
     WDTCONbits.SWDTEN = 0;
 }
