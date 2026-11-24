@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-Sync\Project Outputs for x-IMU3-SA-Sync\Pick Place\Pick Place for x-IMU3-SA-Sync.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/11/26
+Time:       11:56
+Revision:   4033b3d472e50b71f07500d5a9f0a114487cf899
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"U1","21.0000mm","9.0000mm","TopLayer","270","SN74LVC1G17DBV"
+"C1","23.5000mm","9.0000mm","TopLayer","90","100nF"
+"R1","22.2500mm","6.0000mm","TopLayer","270","470R"
+"J2","23.5000mm","6.0000mm","BottomLayer","180","SP-3533-02"
+"R2","17.0000mm","6.0000mm","TopLayer","0","1kR, 250mW"
+"D1","21.0000mm","3.0000mm","TopLayer","270","BAT54S"
+"J1","16.0000mm","6.0000mm","BottomLayer","90","Amphenol 112640"
